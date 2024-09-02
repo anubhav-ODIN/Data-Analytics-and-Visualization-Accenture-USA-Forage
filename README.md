@@ -1,4 +1,4 @@
-# Data-Analytics-and-Visualization-Virtual-Experience-Accenture-USA-Forage
+# Data-Analytics-and-Visualization-Accenture-USA-Forage
 
 # Overview
 This project was undertaken to assist Social Buzz in scaling its operations by leveraging data analysis to optimize content strategy and improve data management. The objective was to enhance profitability by identifying and addressing inefficiencies in Social Buzz's big data practices and technology architecture.
